@@ -28,13 +28,13 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/KaisenSage/EcommerceWebsite.git
+   git clone https://github.com/KaisenSage/BabalolaEcommerceSite.git
    ```
 
 2. **Install dependencies for both frontend and backend:**
    ```bash
    # Frontend
-   cd EcommerceWebsite/frontend
+   cd BabalolaEcommerceSite/frontend
    npm install
 
    # Backend
