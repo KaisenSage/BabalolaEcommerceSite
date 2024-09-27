@@ -15,10 +15,6 @@ This project is part of the ALX software application program. The **EcommerceWeb
 
 ## Features
 
-- User Authentication (Login, Signup)
-- Product Listings with Search and Filter
-- Shopping Cart
-- Order Management and History
 - Responsive UI built with Chakra UI
 - REST API built with Express.js and MongoDB
 
